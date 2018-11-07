@@ -22,7 +22,7 @@ client.connect();
 
 client.on('chat', function(channel, user, message, self) {
     if(message === "!twitter") {
-        client.action("SquerlyTV", "📌 Suis nos actualitées sur Twitter: twitter.com/Squerly_TV")
+        client.action("SquerlyTV", "📌 Suis nos actualitées sur Twitter: twitter.com/SquerlyTV")
         ;
     }
 });
