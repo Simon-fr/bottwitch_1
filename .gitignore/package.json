@@ -3,7 +3,7 @@
     "version": "1.0.0   ",
     "description": "",
     "main": "app.js",
-    "author" "Simon-fr"
+    "author" "Simon-fr",
     "license": "ISC",
     "dependencies": {
         "discord.js": "^11.2.1"
